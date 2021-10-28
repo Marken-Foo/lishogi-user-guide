@@ -28,7 +28,7 @@ The button at the bottom of the chapter list lets you add a new chapter. You nee
 
 The initial position cannot be changed once the chapter is created. The other options can be changed later, however.
 
-**Orientation** lets you choose whether the board is from sente's or gote's point of view. **Analysis mode** lets you select how the chapter will appear to non-contributors; you can use this to set puzzles where the next move is hidden, for example. And of course, you can **name** your chapter.
+**Orientation** lets you choose whether the board is from sente's or gote's point of view. **Analysis mode** lets you select how the chapter will appear to non-contributors; you can use this to set puzzles where the next move is hidden, for example. (See [an example study with all the options](https://lishogi.org/study/hxEw60nj).) And of course, you can **name** your chapter.
 
 Once done, create your chapter and it will appear in the chapter list.
 
