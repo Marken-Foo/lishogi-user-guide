@@ -2,6 +2,8 @@
 
 Welcome to lishogi! This guide will help you understand lishogi's features and get you started!
 
+(Guide under construction; will improve further. English only for now.)
+
 
 ## What is lishogi?
 
@@ -69,3 +71,7 @@ You can learn the rules from the [Learn section](https://lishogi.org/learn). Onc
 You can change the language, board and piece appearance, move notation format, and even the background image from the menu after **clicking on your username at the top right**.
 
 Tip: Setting the background to transparent allows you to choose your own background image to display.
+
+## What is byoyomi/increment/premove/zen mode?
+
+See the [glossary](/glossary.md).
